@@ -8,6 +8,8 @@
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies are reading books 📚, working out with my fiancee and hanging out with my good group of friends 😊
 
+🤔 Still thinking how to make this readme more intresting :) 
+
 ## 🛠️ Skills
 
 ### Languages
